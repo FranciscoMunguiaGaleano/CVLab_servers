@@ -1,4 +1,5 @@
-# CVLab_servers
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FranciscoMunguiaGaleano/CVLabCore/04d94fd6020e5f67c6deb5961af74ff7b3248360/docs/imgs/CVLab.png" alt="alt text" width="20%"></p>
 
 Collection of server scripts for the CVLab Raspberry Pi setup.
 
